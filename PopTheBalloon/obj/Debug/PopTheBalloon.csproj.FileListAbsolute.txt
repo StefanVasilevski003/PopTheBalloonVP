@@ -1,0 +1,11 @@
+C:\Users\Stefan\VPVezbi\PopTheBalloon\PopTheBalloon\obj\Debug\PopTheBalloon.csproj.AssemblyReference.cache
+C:\Users\Stefan\VPVezbi\PopTheBalloon\PopTheBalloon\obj\Debug\PopTheBalloon.Form1.resources
+C:\Users\Stefan\VPVezbi\PopTheBalloon\PopTheBalloon\obj\Debug\PopTheBalloon.Properties.Resources.resources
+C:\Users\Stefan\VPVezbi\PopTheBalloon\PopTheBalloon\obj\Debug\PopTheBalloon.csproj.GenerateResource.cache
+C:\Users\Stefan\VPVezbi\PopTheBalloon\PopTheBalloon\obj\Debug\PopTheBalloon.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\VPVezbi\PopTheBalloon\PopTheBalloon\bin\Debug\PopTheBalloon.exe.config
+C:\Users\Stefan\VPVezbi\PopTheBalloon\PopTheBalloon\bin\Debug\PopTheBalloon.exe
+C:\Users\Stefan\VPVezbi\PopTheBalloon\PopTheBalloon\bin\Debug\PopTheBalloon.pdb
+C:\Users\Stefan\VPVezbi\PopTheBalloon\PopTheBalloon\obj\Debug\PopTheBalloon.exe
+C:\Users\Stefan\VPVezbi\PopTheBalloon\PopTheBalloon\obj\Debug\PopTheBalloon.pdb
+C:\Users\Stefan\VPVezbi\PopTheBalloon\PopTheBalloon\obj\Debug\PopTheBalloon.Help.resources
